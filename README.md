@@ -1,5 +1,5 @@
 # RoomAllocator
-Download the apk: https://www.dropbox.com/s/naktxzbcerks1x5/RoomAllocator.apk?dl=0  
+Download the apk: https://www.dropbox.com/s/naktxzbcerks1x5/RoommateFinder.apk?dl=0  
 For queries, contact: vitaproomallocator@gmail.com
 
 # Abstract
